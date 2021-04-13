@@ -1,0 +1,7 @@
+.bundle
+.sass-cache
+_site
+Gemfile.lock
+
+# Mac files
+.DS_Store

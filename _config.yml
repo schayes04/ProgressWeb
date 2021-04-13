@@ -11,7 +11,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/appicon.png                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Progress                                # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Progress is an app for iOS & macOS designed to....
+app_description                           : Progress is an app for iOS & macOS designed to help keep track of progress towards goals. Perfect for tracking almost anything - time, money, weight, you name it!
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -23,10 +23,29 @@ twitter_username                          : shayesapps
 
 features                                  :
 
-  - title                                 : TBD
-    description                           : TBD
-    fontawesome_icon_name                 : star
+  - title                                 : Beautiful Design
+    description                           : Intuitive layout puts progress tracking right at your fingertips
+    fontawesome_icon_name                 : palette
 
+  - title                                 : Widgets
+    description                           : Powerful widgets available right on your home screen
+    fontawesome_icon_name                 : th-large
+
+  - title                                 : Shortcuts
+    description                           : Siri shortcuts integration to unlock even more possibilities
+    fontawesome_icon_name                 : magic
+
+  - title                                 : History
+    description                           : See trends over time
+    fontawesome_icon_name                 : chart-line
+
+  - title                                 : Categories
+    description                           : Sort your trackers into lists
+    fontawesome_icon_name                 : list
+
+  - title                                 : Multiple Device Support
+    description                           : Available for iOS & macOS devices with seamless syncing
+    fontawesome_icon_name                 : sync
 
 # Theme Settings
 topbar_title_color                        : "#ffffff"

@@ -47,13 +47,13 @@ features                                  :
     description                           : Customizable quick actions for each tracker
     fontawesome_icon_name                 : tachometer-alt
 
+  - title                                 : Smart Formatting
+    description                           : Intelligent formatting for currency, time, weight, and distances
+    fontawesome_icon_name                 : star
+
   - title                                 : Categories
     description                           : Sort your trackers into lists
     fontawesome_icon_name                 : list
-
-  - title                                 : Smart Formatting
-    description                           : Intelligent formatting for currency, time, weight, and distances
-    fontawesome_icon_name                 : brain
 
   - title                                 : Multiple Device Support
     description                           : Available for iOS & macOS devices with seamless syncing

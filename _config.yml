@@ -11,7 +11,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/appicon.png                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Progress                                # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Progress is an app for iOS & macOS designed to help keep track of progress towards goals. Perfect for tracking almost anything - time, money, weight, you name it!
+app_description                           : Progress is an app for iOS & macOS designed to help keep track of progress towards goals. Progress is perfect for tracking almost anything - distance, money, time, weight, and more! Stay on target with history charts showing your recent trends!
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -39,9 +39,21 @@ features                                  :
     description                           : See trends over time
     fontawesome_icon_name                 : chart-line
 
+  - title                                 : Automatic Reset
+    description                           : Set trackers to reset every day, week, month, or year
+    fontawesome_icon_name                 : redo
+
+  - title                                 : Quick Actions
+    description                           : Customizable quick actions for each tracker
+    fontawesome_icon_name                 : tachometer-alt
+
   - title                                 : Categories
     description                           : Sort your trackers into lists
     fontawesome_icon_name                 : list
+
+  - title                                 : Smart Formatting
+    description                           : Intelligent formatting for currency, time, weight, and distances
+    fontawesome_icon_name                 : brain
 
   - title                                 : Multiple Device Support
     description                           : Available for iOS & macOS devices with seamless syncing

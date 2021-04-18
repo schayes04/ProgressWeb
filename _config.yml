@@ -48,7 +48,7 @@ features                                  :
     fontawesome_icon_name                 : tachometer-alt
 
   - title                                 : Smart Formatting
-    description                           : Intelligent formatting for currency, time, weight, and distances
+    description                           : Intelligent formatting for currencies, times, weights, and distances
     fontawesome_icon_name                 : star
 
   - title                                 : Categories

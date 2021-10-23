@@ -36,7 +36,7 @@ features                                  :
     fontawesome_icon_name                 : magic
 
   - title                                 : History
-    description                           : See trends over time
+    description                           : See trends over time and projected completion dates
     fontawesome_icon_name                 : chart-line
 
   - title                                 : Automatic Reset

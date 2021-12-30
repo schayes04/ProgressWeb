@@ -10,7 +10,7 @@ presskit_download_link                    : assets/Progress_Press_Kit.zip
 app_icon                                  : assets/appicon.png
 app_name                                  : Progress
 app_price                                 : Free
-app_description                           : Progress is an app for iOS & macOS designed to help keep track of progress towards goals. Progress is perfect for tracking almost anything - distance, money, time, weight, and more! Stay on target with history charts showing your recent trends!
+app_description                           : Progress is an app for iOS & macOS designed to help keep track of progress towards goals. Perfect for tracking almost anything - distance, money, time, weight, and more! Stay on target with history charts showing your recent trends!
 
 enable_smart_app_banner                   : true
 

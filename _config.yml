@@ -28,7 +28,7 @@ features                                  :
     fontawesome_icon_name                 : palette
 
   - title                                 : Widgets
-    description                           : Powerful widgets available right on your home screen
+    description                           : Powerful widgets available right on your Home Screen or Lock Screen
     fontawesome_icon_name                 : th-large
 
   - title                                 : Shortcuts
